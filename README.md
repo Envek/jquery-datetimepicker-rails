@@ -24,6 +24,10 @@ Add this line to `app/assets/javascripts/application.js`:
 
     //= require jquery.datetimepicker
 
+You can autoinitialize datetime picker on page load for elements with class `datetimepicker` by also adding to js manifest:
+
+    //= require jquery.datetimepicker/init
+
 Usage
 -----
 
