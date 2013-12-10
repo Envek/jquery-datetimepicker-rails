@@ -3,6 +3,8 @@ jQuery date and time picker for rails
 
 [jQuery Date and Time picker plugin] [plugin] by [@xdan] [author] for Ruby on Rails asset pipeline.
 
+[![Gem Version](https://badge.fury.io/rb/jquery-datetimepicker-rails.png)](http://badge.fury.io/rb/jquery-datetimepicker-rails)
+
 Installation
 ------------
 
